@@ -3,6 +3,7 @@
 Globe model using Three.js and ThreeGlobe, inspired from the model at [Github's home page](https://github.com/home).
 
 - Polygons
+- Points
 - Arcs
 - Rings
 
