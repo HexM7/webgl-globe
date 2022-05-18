@@ -11,9 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/HexM7/webgl-globe.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["webgl", "globe"],
+  "author": "HexM7",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HexM7/webgl-globe/issues"
   },
