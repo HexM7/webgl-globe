@@ -6,5 +6,11 @@ Globe model using Three.js and ThreeGlobe, inspired from the model at [Github's 
 - Arcs
 - Rings
 
+## Building
+
+```shell
+$ npm run build
+```
+
 ## :ledger: License
 [MIT License](https://github.com/HexM7/webgl-globe/blob/main/LICENSE)
